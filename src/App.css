@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: black;
+  color: white;
+}
+.signup{
+  margin: 1% 20%;
+  border: 2px solid green;
+  background: black;
+  color: white;
+}
+.left{
+  margin: 0 8px;
+}
+.left input{
+  width: 80%;
+  border: 0px 1px 0px 0px;
+}
+.left button{
+  width: 90px;
+  margin: 5px 0px;
+  background: white;
+  color: black;
+}
+.red{
+  color: red;
+}
+.green{
+  color: green;
+}
+.profile{
+  margin: 10px;
+  background: black;
+  color: white;
+}
+.profile button{
+  width: 90px;
+  color: black;
+  background: white;
+}
+.navbar{
+  color: white;
+}
